@@ -1,7 +1,7 @@
-numpy
-streamlit
-pandas
-scikit-learn
-matplotlib
-joblib
-python == 3.9.21
+python == 3.10.12
+streamlit == 1.30.0
+numpy == 1.23.5
+pandas == 1.5.3
+scikit-learn == 1.2.2
+matplotlib == 3.6.3
+joblib == 1.2.0
