@@ -1,0 +1,8 @@
+numpy 
+streamlit
+pandas
+scikit-learn
+matplotlib
+pip == 25.0.1
+joblib
+pickle
