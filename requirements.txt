@@ -5,4 +5,4 @@ scikit-learn
 matplotlib
 pip == 25.0.1
 joblib
-pickle
+python == 3.10.0
